@@ -1,1 +1,1 @@
-func man() {}
+func main() {}
